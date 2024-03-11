@@ -1,0 +1,16 @@
+{
+  "name": "osstoolsverificationkit",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Charlotte172/ossTools.git"
+  },
+  "author": "Charlotte",
+  "license": "MIT"
+}
